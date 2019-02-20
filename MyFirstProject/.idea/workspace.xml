@@ -7,46 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b0aea5-6c3a-406d-999e-7a3ec7d56ef7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/androidTest/java/com/example/johnfirstappaddtion/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/java/com/example/johnfirstappaddtion/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/test/java/com/example/johnfirstappaddtion/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyApplication1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +27,7 @@
     <session id="-953309771">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>

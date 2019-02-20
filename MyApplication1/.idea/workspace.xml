@@ -7,46 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b226e030-755b-499f-b510-dbd3d4743bf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/androidTest/java/com/example/johnfirstappaddtion/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/java/com/example/johnfirstappaddtion/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/app/src/test/java/com/example/johnfirstappaddtion/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JohnFirstAppAddtion/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyFirstProject/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyFirstProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyFirstProject/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +27,7 @@
     <session id="2117066560">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="2" />
@@ -230,7 +192,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1160" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2379936" />
