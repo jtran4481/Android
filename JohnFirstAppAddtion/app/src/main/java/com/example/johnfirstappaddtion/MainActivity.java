@@ -22,9 +22,9 @@ public class MainActivity extends AppCompatActivity {
                 EditText secondNum = (EditText) findViewById(R.id.secondNum);
                 TextView resultTextView = (TextView) findViewById(R.id.resultTextView);
 
-                int num1 = Integer.parseInt(firstNumEditText.getText().toString());
-                int num2 = Integer.parseInt(secondNum.getText().toString());
-                int result = num1 + num2;
+                double num1 = Double.parseDouble(firstNumEditText.getText().toString());
+                double num2 = Double.parseDouble(secondNum.getText().toString());
+                double result = num1 + num2;
 
                 resultTextView.setText(result + "");
             }
@@ -38,9 +38,9 @@ public class MainActivity extends AppCompatActivity {
                 EditText secondNum = (EditText) findViewById(R.id.secondNum);
                 TextView resultTextView = (TextView) findViewById(R.id.resultTextView);
 
-                int num1 = Integer.parseInt(firstNumEditText.getText().toString());
-                int num2 = Integer.parseInt(secondNum.getText().toString());
-                int result = num1 - num2;
+                double num1 = Double.parseDouble(firstNumEditText.getText().toString());
+                double num2 = Double.parseDouble(secondNum.getText().toString());
+                double result = num1 - num2;
 
                 resultTextView.setText(result + "");
             }
@@ -54,9 +54,9 @@ public class MainActivity extends AppCompatActivity {
                 EditText secondNum = (EditText) findViewById(R.id.secondNum);
                 TextView resultTextView = (TextView) findViewById(R.id.resultTextView);
 
-                int num1 = Integer.parseInt(firstNumEditText.getText().toString());
-                int num2 = Integer.parseInt(secondNum.getText().toString());
-                int result = num1 * num2;
+                double num1 = Double.parseDouble(firstNumEditText.getText().toString());
+                double num2 = Double.parseDouble(secondNum.getText().toString());
+                double result = num1 * num2;
 
                 resultTextView.setText(result + "");
             }
@@ -70,9 +70,9 @@ public class MainActivity extends AppCompatActivity {
                 EditText secondNum = (EditText) findViewById(R.id.secondNum);
                 TextView resultTextView = (TextView) findViewById(R.id.resultTextView);
 
-                int num1 = Integer.parseInt(firstNumEditText.getText().toString());
-                int num2 = Integer.parseInt(secondNum.getText().toString());
-                int result = num1/num2;
+                double num1 = Double.parseDouble(firstNumEditText.getText().toString());
+                double num2 = Double.parseDouble(secondNum.getText().toString());
+                double result = num1/num2;
 
                 resultTextView.setText(result + "");
             }
